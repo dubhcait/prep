@@ -13,14 +13,14 @@ Personal introductions via email
 
 
 ## Values
-Project prioritizes make web accessibility: a11y project
-  Written in semantic HTML
-  Avoids divs (uses React Fragments or appropriate semantic tag)
-  Forms are appropriately labelled
-  Site is accessible by keyboard navigation (appropriate interactive elements are focussable)
-  Uses WCAG AAA Color contrast in our styling, can use [online checker](https://contrast-ratio.com/) 
-  Uses aria labels when text is not visible on the screen
-  Uses aria-labelledby attribute where necessary
+Project prioritizes make web accessibility: [a11y project](https://a11yproject.com/)
+  - Written in semantic HTML
+  - Avoids divs (uses React Fragments or appropriate semantic tag)
+  - Forms are appropriately labelled
+  - Site is accessible by keyboard navigation (appropriate interactive elements are focussable)
+  - Uses WCAG AAA Color contrast in our styling, can use [online checker](https://contrast-ratio.com/) 
+  - Uses aria labels when text is not visible on the screen
+  - Uses aria-labelledby attribute where necessary
   
   ## Stand-ups
 Standups will be held at [insert time] London time, [insert time] Palestine time.
@@ -59,29 +59,29 @@ Further informations in this artical here : https://nvie.com/posts/a-successful-
 
 - [ ] **Branch is up to date with the Staging Branch**
 - [ ] **The project runs**
-- - [ ] You can download and install locally, and run the project locally
-- - [ ] All existing and new features run without new bugs
-- - [ ] The build script runs without error
-- - [ ] (If the project is already deployed to Heroku), the Staging branch can be merged into master branch to be deployed successfully to Heroku and checked for production bugs
+  - [ ] You can download and install locally, and run the project locally
+  - [ ] All existing and new features run without new bugs
+  - [ ] The build script runs without error
+  - [ ] (If the project is already deployed to Heroku), the Staging branch can be merged into master branch to be deployed successfully to Heroku and checked for production bugs
 - [ ] **Code is consistent**
-- - [ ] Linter is used, no error messages
-- - [ ] Code is consistent with agreed team style
-- - [ ] Naming of files is consistent with project (e.g. all files named with - between words)
+  - [ ] Linter is used, no error messages
+  - [ ] Code is consistent with agreed team style
+  - [ ] Naming of files is consistent with project (e.g. all files named with - between words)
 - [ ] **Tests are in place**
-- - [ ] Test file is in the same folder as the original file, with the extension .test.js
-- - [ ] Each new file written has a test file (where possible)
+  - [ ] Test file is in the same folder as the original file, with the extension .test.js
+  - [ ] Each new file written has a test file (where possible)
 - [ ] **Tests all pass**
-- - [ ] All tests should pass locally and on Travis
-- - [ ] Edge cases have been considered in tests
+  - [ ] All tests should pass locally and on Travis
+  - [ ] Edge cases have been considered in tests
 - [ ] **Test coverage is maintained**
-- - [ ] Project coverage stays > 85%
-- - [ ] PR will not bring down coverage by more than 5%
-- - [ ] If you are stuck with writing tests, you have assigned @arrested-developer to the PR and added a comment to explain what help is needed
+  - [ ] Project coverage stays > 85%
+  - [ ] PR will not bring down coverage by more than 5%
+  - [ ] If you are stuck with writing tests, you have assigned @arrested-developer to the PR and added a comment to explain what help is needed
 - [ ] **minimal console logs**
-- - [ ] Console.log is only used for crucial system messages (e.g. which port server is on).
-- - [ ] Any console.logs used for debugging have been removed.
-- - [ ] Console.error is used in error handling.
-- - [ ] global.console.log and global.console.error are mocked in tests when needed to avoid littering the console
+  - [ ] Console.log is only used for crucial system messages (e.g. which port server is on).
+  - [ ] Any console.logs used for debugging have been removed.
+  - [ ] Console.error is used in error handling.
+  - [ ] global.console.log and global.console.error are mocked in tests when needed to avoid littering the console
 
 ## Merging Pull Requests
 
