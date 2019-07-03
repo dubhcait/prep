@@ -2,19 +2,40 @@
 
 This issue is intended to document for our current processes within this project.
 
-## Contents:
+Pre-project checklist
 
-- [Linting](#Linting)
-- [Git Branching Model](#Git-branching-model)
-- [Naming Branches](#Naming-Branches)
-- [Commit messages](#Commit-Messages)
-- [Pull Request Checklist](#Pull-Request-Checklist)
-- [Merging Pull Requests](#Merging-Pull-Requests)
+Personal introductions via email
+ - [ ] Create Gitter room
+ - [ ]  Create repo with project documentation and process guide
+ - [ ]  Fill out user manuals
+ - [ ]  Hold a meeting outlining the project aims and going over workshop documentation
+ - [ ]  Decide on project roles; Scrum master, QA, DevOps and UX
 
-## Linting
 
-- To begin with, we would suggest using eslint with the airbnb style guide configuration for easy setup (to be done on one computer and added to project file)
-- Further edits to the linter configuration file can be discussed, agreed on, and documented here.
+## Values
+Project prioritizes make web accessibility: a11y project
+  Written in semantic HTML
+  Avoids divs (uses React Fragments or appropriate semantic tag)
+  Forms are appropriately labelled
+  Site is accessible by keyboard navigation (appropriate interactive elements are focussable)
+  Uses WCAG AAA Color contrast in our styling, can use [online checker](https://contrast-ratio.com/) 
+  Uses aria labels when text is not visible on the screen
+  Uses aria-labelledby attribute where necessary
+  
+  ## Stand-ups
+Standups will be held at [insert time] London time, [insert time] Palestine time.
+
+In order to keep focus, our aim for standups will be 15min every day. They will focus on what you are currently working on, what you plan to do next and if you have any blockers. Discussions at stand up should revolve around things that concern the whole team.
+
+Additional time for discussion can be arranged immediately following standup for questions or getting help from one another. This can be done in pairs or larger groups.
+
+ Please review the kanban daily and check that it is up to date.
+
+At the end of every day, please add a note in the daily log on the kanban commenting on the issues that you worked on, what issues you plan to take on and any blockers you may have.
+
+This will be especially important as there will be times when we will be working across 4 cities in different timezones and we want to make sure that it is clear what every one is doing.
+
+
 
 ## Git Branching Model
 
@@ -65,3 +86,8 @@ Further informations in this artical here : https://nvie.com/posts/a-successful-
 ## Merging Pull Requests
 
 - The person that made the pull request is responsible for the final merge, but only after at least one other person from the team has reviewed, assign everyone to review pull requests
+
+## Linting
+
+- To begin with, we would suggest using eslint with the airbnb style guide configuration for easy setup (to be done on one computer and added to project file)
+- Further edits to the linter configuration file can be discussed, agreed on, and documented here.
