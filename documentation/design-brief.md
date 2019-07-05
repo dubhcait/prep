@@ -16,21 +16,21 @@ goals:
 
 purpose:
 
----
 
-Are you usimg anything already for this purpose? 
 
-what would you change:
+Are you using anything already for this purpose? 
+
+what would you change about it:
 
 what would you keep:
 - materials:
 - content:
 
-Elements/ features you would like:
+Elements / features you would like:
 
 what don't you want?
 
-urls designs you like
+urls designs you like:
 
-emotions, descriptive, description, terms you want your product to envoke
+emotions, descriptive, description, terms you want your product to envoke:
 
