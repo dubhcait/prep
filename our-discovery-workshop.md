@@ -1,4 +1,4 @@
-# Our Definition workshop
+# Our Discovery workshop
 
 ## Braindump Exercise:
 
