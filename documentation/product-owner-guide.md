@@ -15,9 +15,12 @@ This programme Is funded by Intersticia. The concept of Intersticia has always b
 
 ![](https://i.imgur.com/n54yqwl.png)
 
-Phase 1 & 2 = Discofery workshop
-Phase 3 & 4 = Definition worksop
+Phase 1 & 2 = Discovery workshop
+
+Phase 3 & 4 = Design workshop
+
 Phase 5 = Design sprint & User testing of the prototype 
+
 Phase 6 = Sprint Planning workshop
 
 
