@@ -10,21 +10,33 @@ A pair of graduates complete three **Tech for Better** projects. For each projec
 
 This programme Is funded by Intersticia. The concept of Intersticia has always been based on dynamism and change, operating within the interstice that exists between technology, culture and society.  But also between the potential of ideas and reality of execution.  Our goal is to work with people and their ability to imagination.
 
+## Timeline Outline
+
+There are two processes: Design and Build
+
+There will be two workshops in the Design process:
+- The Discovery workshop
+- The Exploration workshop
+
+There will be two workshops in the Build process:
+- Sprint Planning workshop
+- The Handover workshop
+
 
 ## The Design process
 
 ![](https://i.imgur.com/n54yqwl.png)
 
-Phase 1 & 2 = Discovery workshop
+Phase 1 & 2 = The Discovery workshop
 
-Phase 3 & 4 = Exploration workshop
+Phase 3 & 4 = The Exploration workshop
 
 Phase 5 = Design sprint & User testing of the prototype 
 
 Phase 6 = Sprint Planning workshop
 
 
-## What is a prototype?
+### What is a prototype?
 A prototype is a quasi-realistic representation (fancy picture) of what you are building that can be acted with and tested on users in order to help validate your design.
 
 They are useful for a number of reasons:
@@ -34,7 +46,54 @@ They are useful for a number of reasons:
 - Observe how users want to interact with your design
 - Faster to create than fully coded solutions (front and back end)
 
+Section on User Research after build process
 
+## The Build process
+
+**This section will predominantly be explained in the 3rd workshop as well as an intro to GitHub.** 
+
+![](https://i.imgur.com/ml72OAP.png)
+
+
+
+### Our agile process 
+
+
+Agile is a way of working that aims to be transparency, inspection, and adaptation. Each 
+
+The roles particularly relevant to the agile process are; your role as product owner and the scrum master. Agile is aims to optimize flexibility, creativity, and productivity
+
+The product owner and scrum master share responsibility for maximizing the value of the work of the development team. 
+
+The product owner helps order item’s priority. The Product Owner’s decisions are visible in the content and ordering of the Product Backlog. 
+
+
+
+The Product Backlog is a map for the development team it will be on [GitHub](https://github.com/). 
+
+Backlog management includes:
+- Each Backlog item has it's minimum requirements and stretch goals
+- Ordering the items in the Product Backlog to best achieve goals
+- Ensuring that the Product Backlog is visible, transparent, and shows what the Team will work on next
+
+
+The development team is comprised four developers. Two from the London Founders and Coders cohort, Kate and Dylan. The remaining two are from [the Gaza Sky Geeks](https://gazaskygeeks.com/about-us/). The application process ongoing currently.
+
+During the Sprint:
+- No changes are made that would endanger the Sprint Goal;
+- Scope may be clarified and re-negotiated between the product owner and development team as more is learned.
+
+Sprints consist of the Sprint Planning, Daily Scrums, the development work, the Sprint Review, and the Sprint Retrospective. The product owner is predominantly involved the sprint planning.
+
+![](https://i.imgur.com/fXPDRor.png)
+
+
+![](https://i.imgur.com/gsjQUAC.png)
+
+
+
+
+---
 ## User Research 
 
 User research prevents our own assumptions from taking over and instead keeps our focus on the actual user.
@@ -59,6 +118,7 @@ Following a structured approach to user research ensures consistency, clearly de
 
 Finally, remember to repeat the process. Once you have tested one iteration of a design and made changes to it, test it again to see if you have addressed the issues highlighted by participants during the initial testing.
 
+---
 
 ### What is a user interview?
 A user interview is a common user research technique used typically to get qualitative information from either existing or potential users.
@@ -94,8 +154,9 @@ Some quick tips for during the interview are:
 **Keep it on track** – As previously mentioned, it’s ok to go a little bit off script as long as it’s adding value to your research but if it’s a complete tangent get the interviewee focussed again by saying something like “That’s really interesting, but what I really wanted to ask about was X”
 **Try not to bury your head in your notes** – Easier when there are two of you, but even if it’s you on your own try to maintain eye contact where possible and don’t spent the entire time writing.
 
+---
 
+## Further exercise:
 
-## Very useful exercise:
-
+Iceberg exercise of values:  
 https://designsprintkit.withgoogle.com/methodology/phase1-understand/iceberg-canvas
