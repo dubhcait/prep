@@ -134,6 +134,7 @@ Their pain points
 
 These all add vital meat on the bone to any personas you design and help you understand your potential and existing users.
 
+**Ideally have another person taking notes** - Quotes can be extremely useful.  
 
 **Let the person know why you are doing the interview** – Many people may be wary about a stranger coming and asking them lots of personal questions. Before you jump in give them an overview of what you are trying to accomplish and most importantly let them know there are no wrong answers. Also let them know that any feedback will be kept anonymous.
 
@@ -141,7 +142,7 @@ These all add vital meat on the bone to any personas you design and help you und
 
 **Use the script as a guide not a bible** – The script should help lead the conversation in the right direction but it should not be stuck to too rigidly. Be prepared to go a little off piste if the conversation is heading in an interesting direction. Just make sure to cover all the areas you need to.
 
-**Keep it to 30 min**– A fairly simple tip but an important one. Most people will have trouble staying focussed longer than this so if you are running out of time cherry pick the most important questions.
+**Keep it to under 30 min**–  20 min usually is optimum as neither you or the interviewee will feel rushed. A shorter interview can work. Longer ones can be draining for the interviewee and yourself. A fairly simple tip but an important one. Most people will have trouble staying focussed longer than this so if you are running out of time cherry pick the most important questions.
 
 **Leave time between interviews** – A whole day of user interviews can be exhausting, particularly towards the end. Give yourself a half hour buffer between them to allow for any over run, give you time to finish up your notes and to have a bit of a break.
 
