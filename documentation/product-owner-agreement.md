@@ -16,28 +16,28 @@ We will publish your app under the MIT open source license. See below for more d
 
 ## Overview of project timeline
 
-### Workshop 1 (Discovery) 
+### Workshop 1 (Definition) 
 Our team will work with you to think broadly about your problem space. We end by working with you to create a user research survey.
 
-### Conduct user research
-You conduct user research with between 4-8 users, and share your findings with us. 
+### Conduct user research 
+You conduct user research with between 4-8 users, and share your findings with us. Espicially if you haven't conducted any before.
 
-### Workshop 2 (Definition)
+### Workshop 2 (Exploration)
 Our team will work with you to define the specific problem that they will build an app to solve.
-Prepare necessary data and/or content
-Any copy, data or content for the app should be prepared before the sprint begins.
+Prepare necessary data and/or content. Any copy, data or content for the app should be prepared before the sprint begins.
 
-### workshop 3 (Product Owner training)
-You will work with your team to prepare for your role as Product Owner in the Agile/SCRUM process. You will define user stories that define the functionality of the app.
+### workshop 3 (Sprint Planning)
+You will work with your team as your role as Product Owner in the Agile/SCRUM process. You will help define user stories that define the functionality of the app. At the end of this together you'll make a map for the build sprints aka a sprint backlog
 
 #### 1-week design sprint
 Your team will develop the visual design of the app and make a first prototype.
-User testing
-You will help to plan user testing, with some real potential users
-#### 2-week build sprint
+User testing. You will help to plan user testing, with some real potential users
+
+#### 3-week build sprints
 Your developer team will build the features of the app.
-Delivery
-Product is handed over with documentation, including instructions on how to run the application.
+
+### workshop 4 (Handover)
+Product is handed over with documentation, including instructions on how to run the application. This will be a starting point for most projects and we encourage futher planning.
 
 
 # Your Responsiblities 
