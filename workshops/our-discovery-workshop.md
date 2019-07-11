@@ -1,4 +1,6 @@
-# Our Discovery workshop
+# Workshop 1
+
+This workshop is to figure out the scope of the problem is trying to address.
 
 ## Braindump Exercise:
 
