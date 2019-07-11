@@ -1,3 +1,8 @@
+
+# Workshop 2
+
+This workshop is to refine the problem and generate potential for solutions.
+
 ## User stories
 
 ![](https://i.imgur.com/X6bDj82.png)
