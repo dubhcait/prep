@@ -16,14 +16,14 @@ We will publish your app under the MIT open source license. See below for more d
 
 ## Overview of the project timeline
 
-### Workshop 1 (Definition) 
+### Workshop 1 (Discovery) 
 Our team will work with you to think broadly about your problem space. We end by working with you to create a user research survey.
 
 ### Conduct user research 
 You conduct user research with between 4-8 users and share your findings with us. Especially if you haven't conducted any before.
 
 ### Workshop 2 (Exploration)
-Our team will work with you to define the specific problem that they will build an app to solve.
+Our team will work with you to define the specific problem and frame it so that we can build an app to solve it.
 Prepare necessary data and/or content. Any copy, data or content for the app should be prepared before the sprint begins.
 
 ### workshop 3 (Sprint Planning)
