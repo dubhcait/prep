@@ -1,3 +1,7 @@
+![](https://www.foundersandcoders.com/static/fac_logo-4255a40f47764e69170884e3030fb6b3.svg)
+<br />
+
+
 # Product Owner guide
 
 ## General
