@@ -14,13 +14,11 @@ Their overall character:
 
 The main tasks they want to achieve:
 
----
 
 ## Summary
 
 When [status] I want to [motivation] so I can [outcome]
 
----
 
 ## How might we...
 
@@ -29,7 +27,9 @@ The “How Might We” (HMW) method, we use it to capture opportunities and idea
 We are looking for opportunities rather than solutions. Each word of the HMW phrase puts team members in the right mindset:
 
 **“How”** guides team members to believe the answer is out there.
+
 **“Might”** lets team members know their HMW statement might or might not work, and either possibility is okay
+
 **“We”** reminds us this is about teamwork and building on each others’ ideas
 
 Do not spend a lot of time crafting or perfecting HMW statements. Instead come up with as many HMW notes as we can, with as little self-editing as possible. 
@@ -64,9 +64,13 @@ Include descriptions for each step and highlight pain points along the journey*
 You can think broadly in each step about things such as:
 
 **Context** – Where is the user? What is around them? Are there any external factors which may be distracting them? 
+
 **Progression** – How does each step enable them to get to the next?
+
 **Devices** – what device are they using? Are they a novice or expert? What features does the device have?
+
 **Functionality** – What type of functionality are they expecting? Is it achievable?
+
 **Emotion** – What is their emotional state in each step? Are they engaged, bored, annoyed? Read more about mapping emotion to user journeys
 
 **Put on some structure**
