@@ -59,7 +59,7 @@ Section on User Research after build process
 ### Our agile process 
 
 
-Agile is a way of working that aims to be transparency, inspection, and adaptation. Each 
+Agile is a way of working that aims to be transparency, inspection, and adaptation.
 
 The roles particularly relevant to the agile process are; your role as product owner and the scrum master. Agile is aims to optimize flexibility, creativity, and productivity
 
